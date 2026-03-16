@@ -1,0 +1,163 @@
+{
+  "ambulance": {
+    "label": "Ambulance",
+    "color": "#a01a1a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/ambulance_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/ambulance_2.jpg"
+    ]
+  },
+  "banker": {
+    "label": "Banker",
+    "color": "#1a3a6b",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/banker_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/banker_2.jpg"
+    ]
+  },
+  "burgershot": {
+    "label": "Burger Shot",
+    "color": "#b84a00",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/burgershot_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/burgershot_2.jpg"
+    ]
+  },
+  "cardealer": {
+    "label": "Car Dealer",
+    "color": "#1a4a2a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/cardealer_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/cardealer_2.jpg"
+    ]
+  },
+  "cariste": {
+    "label": "Cariste",
+    "color": "#5a4000",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/cariste_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/cariste_2.jpg"
+    ]
+  },
+  "club77": {
+    "label": "Club 77",
+    "color": "#3a006e",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/club77_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/club77_2.jpg"
+    ]
+  },
+  "concess": {
+    "label": "Concessionnaire",
+    "color": "#003a5a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/concess_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/concess_2.jpg"
+    ]
+  },
+  "eclairage": {
+    "label": "Éclairage",
+    "color": "#5a4a00",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/eclairage_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/eclairage_2.jpg"
+    ]
+  },
+  "gouvernement": {
+    "label": "Gouvernement",
+    "color": "#1a3a1a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/gouvernement_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/gouvernement_2.jpg"
+    ]
+  },
+  "lobopub": {
+    "label": "Lobo Pub",
+    "color": "#4a1a00",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/lobopub_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/lobopub_2.jpg"
+    ]
+  },
+  "lumberjack": {
+    "label": "Lumberjack",
+    "color": "#3a1a00",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/lumberjack_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/lumberjack_2.jpg"
+    ]
+  },
+  "mecano": {
+    "label": "Mécano",
+    "color": "#4a3000",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/mecano_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/mecano_2.jpg"
+    ]
+  },
+  "mechanic": {
+    "label": "Mechanic",
+    "color": "#3a2800",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/mechanic_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/mechanic_2.jpg"
+    ]
+  },
+  "miner": {
+    "label": "Mineur",
+    "color": "#3a2a10",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/miner_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/miner_2.jpg"
+    ]
+  },
+  "moto": {
+    "label": "Moto",
+    "color": "#1a1a3a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/moto_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/moto_2.jpg"
+    ]
+  },
+  "plage": {
+    "label": "Plage",
+    "color": "#005a6e",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/plage_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/plage_2.jpg"
+    ]
+  },
+  "police": {
+    "label": "Police",
+    "color": "#0a1f5c",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_2.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_3.jpg"
+    ]
+  },
+  "reporter": {
+    "label": "Reporter",
+    "color": "#4a1a1a",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/reporter_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/reporter_2.jpg"
+    ]
+  },
+  "taxi": {
+    "label": "Taxi",
+    "color": "#6a5800",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/taxi_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/taxi_2.jpg"
+    ]
+  },
+  "weazel": {
+    "label": "Weazel News",
+    "color": "#5a0000",
+    "images": [
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/weazel_1.jpg",
+      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/weazel_2.jpg"
+    ]
+  }
+}
