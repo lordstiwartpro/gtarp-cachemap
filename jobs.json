@@ -127,15 +127,14 @@
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/plage_2.jpg"
     ]
   },
-  "police": {
-    "label": "Police",
-    "color": "#0a1f5c",
-    "images": [
-      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_1.png",
-      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_2.jpg",
-      "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/police_3.jpg"
-    ]
-  },
+"police": {
+  "label": "Police",
+  "color": "#0a1f5c",
+  "images": [
+    "https://raw.githubusercontent.com/lordstiwartpro/gtarp-cachemap/main/images/police_1.png",
+    "https://raw.githubusercontent.com/lordstiwartpro/gtarp-cachemap/main/images/police_2.webp"
+  ]
+},
   "reporter": {
     "label": "Reporter",
     "color": "#4a1a1a",
