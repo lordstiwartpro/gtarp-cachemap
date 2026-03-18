@@ -1,6 +1,6 @@
 {
   "ambulance": {
-    "label": "Ambulance",
+    "label": "LS Medical center",
     "color": "#a01a1a",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/ambulance_1.jpg",
@@ -8,7 +8,7 @@
     ]
   },
   "banker": {
-    "label": "Banker",
+    "label": "Banquier",
     "color": "#1a3a6b",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/banker_1.jpg",
@@ -24,7 +24,7 @@
     ]
   },
   "cardealer": {
-    "label": "Car Dealer",
+    "label": "Concess",
     "color": "#1a4a2a",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/cardealer_1.jpg",
@@ -56,7 +56,7 @@
     ]
   },
   "eclairage": {
-    "label": "Éclairage",
+    "label": "Électricien",
     "color": "#5a4a00",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/eclairage_1.jpg",
@@ -80,7 +80,7 @@
     ]
   },
   "lumberjack": {
-    "label": "Lumberjack",
+    "label": "Bucheron",
     "color": "#3a1a00",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/lumberjack_1.jpg",
@@ -112,7 +112,7 @@
     ]
   },
   "moto": {
-    "label": "Moto",
+    "label": "Concess",
     "color": "#1a1a3a",
     "images": [
       "https://raw.githubusercontent.com/TON-USER/TON-REPO/main/images/moto_1.jpg",
