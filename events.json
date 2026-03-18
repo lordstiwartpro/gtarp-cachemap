@@ -1,14 +1,7 @@
 [
   {
-    "title": "Event test",
+    "title": "EVENT_TEST",
+    "label": "Event Test",
     "date": "2026-03-20"
-  },
-  {
-    "title": "Course Nocturne",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "Soirée Club 77",
-    "date": "2026-03-25"
   }
 ]
