@@ -3,5 +3,10 @@
     "title": "EVENT_TEST",
     "label": "Event Test",
     "date": "2026-03-22"
+  },
+  {
+    "title": "EVENT_TEST_2",
+    "label": "Event Test 2",
+    "date": "2026-03-22"
   }
 ]
